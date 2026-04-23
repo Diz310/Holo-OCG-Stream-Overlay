@@ -6,7 +6,7 @@ An Overlay for Streams of the Official Hololive Card Game that displays all the 
 
 All the graphics have been made by WeissandChill, I only wrote the script that updates the Overlay based on the users input.
 
-THere are 3 fields to input Card IDs:
+There are 3 fields to input Card IDs:
 The first two are showcasing the cards next to the Oshi. The last one displays the Oshi itself.
 The 2 cards next to the Oshi are meant to display important/key cards of the deck that the player is piloting.
 The Oshi should be self-explanatory.
