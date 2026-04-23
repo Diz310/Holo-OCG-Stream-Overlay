@@ -6,7 +6,7 @@ An Overlay for Streams of the Official Hololive Card Game that displays all the 
 
 All the graphics have been made by WeissandChill, I only wrote the script that updates the Overlay based on the users input.
 
-There are 3 fields to input Card IDs:
+There are 3 fields to input Card IDs: 
 The first two are showcasing the cards next to the Oshi. The last one displays the Oshi itself.
 The 2 cards next to the Oshi are meant to display important/key cards of the deck that the player is piloting.
 The Oshi should be self-explanatory.
@@ -20,3 +20,10 @@ Lastly theres the Toggle for the SP Oshi skill. When the player has used their S
 At the very bottom there's a button to reset the game.
 This sets both players life to 5, their holopower to 0, and resets the SP Oshi Skill.
 If a player plays an Oshi with 6 starting life, you have to manually add 1 life at the start of the game.
+
+How to use the Overlay:
+
+
+Just download the zip file under releases and unpack it.
+Then just start the exe file and it should work.
+Do NOT remove any of the folders, if you do the script will stop working.
