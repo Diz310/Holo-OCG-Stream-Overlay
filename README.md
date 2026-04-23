@@ -12,6 +12,9 @@ The 2 cards next to the Oshi are meant to display important/key cards of the dec
 The Oshi should be self-explanatory.
 The color highlight at the bottom of the Oshi will automatically change based on the color of the chosen Oshi Card.
 
+If the Card ID that was input was not valid then the script will display the cardbacks to show that something went wrong.
+For the Oshi it will show Mios birthday oshi card instead (#nobias)
+
 There are buttons to increase and decrease both the players life, and holopower.
 The life is capped from 0-6 and holo power is capped from 0-9.
 
@@ -25,5 +28,8 @@ How to use the Overlay:
 
 
 Just download the zip file under releases and unpack it.
+It should look like this:
+<img width="656" height="132" alt="image" src="https://github.com/user-attachments/assets/7a3bed27-a3c8-43c4-8a7a-639cf417bb29" />
+
 Then just start the exe file and it should work.
 Do NOT remove any of the folders, if you do the script will stop working.
